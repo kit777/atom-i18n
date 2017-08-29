@@ -1,213 +1,213 @@
 Menu:
   "&File":
-    value: "File(&F)"
+    value: "Файл(&F)"
     submenu:
       "New &Window":
-        value: "New Window(&W)"
+        value: "Нове Вікно(&W)"
       "&New File":
-        value: "New File(&N)"
+        value: "Новий Файл(&N)"
       "&Open File…":
-        value: "Open File(&O)..."
+        value: "Вікрити Файл(&O)..."
       "Open Folder…":
-        value: "Open Folder..."
+        value: "Відкрити Папку..."
       "Add Project Folder…":
-        value: "Add Project Folder..."
+        value: "Додати проектну папку..."
       "Reopen Project":
-        value: "Reopen Project"
+        value: "Перевідкрити Проект"
         submenu:
           "Clear Project History":
-            value: "Clear Project History"
+            value: "Очистити історію проекту"
       "Reopen Last &Item":
-        value: "Reopen Last Item(&I)"
+        value: "Перевідкрити останній файл(&I)"
       "Se&ttings":
-        value: "Settings(&T)..."
+        value: "Налаштування(&T)..."
       "Config…":
-        value: "Config..."
+        value: "Конфігурація..."
       "Init Script…":
-        value: "Init Script..."
+        value: "Ініціалізувати скрипт..."
       "Keymap…":
-        value: "Keymap..."
+        value: "Розкладка клавіатури..."
       "Snippets…":
-        value: "Snippets..."
+        value: "Шаблони..."
       "Stylesheet…":
-        value: "Stylesheet..."
+        value: "Стиль..."
       "&Save":
-        value: "Save(&S)"
+        value: "Зберегти(&S)"
       "Save &As…":
-        value: "Save As(&A)..."
+        value: "Зберегти Як(&A)..."
       "Save A&ll":
-        value: "Save All(&L)"
+        value: "Зберегти Все(&L)"
       "&Close Tab":
-        value: "Close Tab(&C)"
+        value: "Закрити вкладку(&C)"
       "Close &Pane":
-        value: "Close Pane(&P)"
+        value: "Закрити Pane(&P)???"
       "Clos&e Window":
-        value: "Close Window(&E)"
+        value: "Закрити вікно(&E)"
       "E&xit":
-        value: "Exit(&X)"
+        value: "Вийти(&X)"
       "Close All Tabs":
-        value: "Close All Tabs"
+        value: "Закрити всі вкладки"
   "&Edit":
-    value: "Edit(&E)"
+    value: "Редагування(&E)"
     submenu:
       "&Undo":
-        value: "Undo(&U)"
+        value: "Скасувати(&U)"
       "&Redo":
-        value: "Redo(&R)"
+        value: "Відтворити(&R)"
       "Cu&t":
-        value: "Cut(&T)"
+        value: "Вирізати(&T)"
       "&Copy":
-        value: "Copy(&C)"
+        value: "Копіювати(&C)"
       "Copy Pat&h":
-        value: "Copy Path(&H)"
+        value: "Копіювати Шлях(&H)"
       "&Paste":
-        value: "Paste(&P)"
+        value: "Вставити(&P)"
       "Select &All":
-        value: "Select All(&A)"
+        value: "Вибрати все(&A)"
       "&Toggle Comments":
-        value: "Toggle Comments(&T)"
+        value: "Коментарі(&T)"
       Lines:
-        value: "Lines"
+        value: "Лінії"
         submenu:
           "&Indent":
-            value: "Indent(&I)"
+            value: "Відступ(&I)"
           "&Outdent":
-            value: "Outdent(&O)"
+            value: "Зворотній відступ(&O)"
           "&Auto Indent":
-            value: "Auto Indent(&A)"
+            value: "Автоматичний відступ(&A)"
           "Move Line &Up":
-            value: "Move Line Up(&U)"
+            value: "Зрушити рядок вгору(&U)"
           "Move Line &Down":
-            value: "Move Line Down(&D)"
+            value: "Зрушити рядок вниз(&D)"
           "Du&plicate Lines":
-            value: "Duplicate Lines(&P)"
+            value: "Дублікувати рядки(&P)"
           "D&elete Line":
-            value: "Delete Line(&E)"
+            value: "Видалити рядок(&E)"
           "&Join Lines":
-            value: "Join Lines(&J)"
+            value: "З'єднати рядки(&J)"
       Columns:
-        value: "Columns"
+        value: "Стовпці"
         submenu:
           "Move Selection &Left":
-            value: "Move Selection Left(&L)"
+            value: "Зрушити вибранне вліво(&L)"
           "Move Selection &Right":
-            value: "Move Selection Right(&R)"
+            value: "Зрушити вибранне вправо(&R)"
       Text:
-        value: "Text"
+        value: "Текст"
         submenu:
           "&Upper Case":
-            value: "Upper Case(&U)"
+            value: "Верхній регістр(&U)"
           "&Lower Case":
-            value: "Lower Case(&L)"
+            value: "Нижній регістр(&L)"
           "Delete to End of &Word":
-            value: "Delete to End of Word(&W)"
+            value: "Видалити до кінця слова(&W)"
           "Delete to Previous Word Boundary":
-            value: "Delete to Previous Word Boundary"
+            value: "Видалити до попереднього слова"
           "Delete to Next Word Boundary":
-            value: "Delete to Next Word Boundary"
+            value: "Видалити до наступнього слова"
           "&Delete Line":
-            value: "Delete Line(&D)"
+            value: "Видалити рядок(&D)"
           "&Transpose":
-            value: "Transpose(&T)"
+            value: "Транспортувати(&T)"
       Folding:
-        value: "Folding"
+        value: "Згортання"
         submenu:
           "&Fold":
-            value: "Fold(&F)"
+            value: "Згорнути(&F)"
           "&Unfold":
-            value: "Unfold(&U)"
+            value: "Розгорнути(&U)"
           "Unfold &All":
-            value: "Unfold All(&A)"
+            value: "Розгорнути Все(&A)"
           "Fol&d All":
-            value: "Fold All(&D)"
+            value: "Згорнути Все(&D)"
           "Fold Level 1":
-            value: "Fold Level 1"
+            value: "Згорнути рівень 1"
           "Fold Level 2":
-            value: "Fold Level 2"
+            value: "Згорнути рівень 2"
           "Fold Level 3":
-            value: "Fold Level 3"
+            value: "Згорнути рівень 3"
           "Fold Level 4":
-            value: "Fold Level 4"
+            value: "Згорнути рівень 4"
           "Fold Level 5":
-            value: "Fold Level 5"
+            value: "Згорнути рівень 5"
           "Fold Level 6":
-            value: "Fold Level 6"
+            value: "Згорнути рівень 6"
           "Fold Level 7":
-            value: "Fold Level 7"
+            value: "Згорнути рівень 7"
           "Fold Level 8":
-            value: "Fold Level 8"
+            value: "Згорнути рівень 8"
           "Fold Level 9":
-            value: "Fold Level 9"
+            value: "Згорнути рівень 9"
       "Reflow Selection":
-        value: "Reflow Selection"
+        value: "Перенаправити Селекцію"
       Bookmark:
-        value: "Bookmark"
+        value: "Закладка"
         submenu:
           "View All":
-            value: "View All"
+            value: "Переглянути Всі"
           "Toggle Bookmark":
-            value: "Toggle Bookmark"
+            value: "Помітити Закладку"
           "Jump to Next Bookmark":
-            value: "Jump to Next Bookmark"
+            value: "Перейти до Наступної Закладки"
           "Jump to Previous Bookmark":
-            value: "Jump to Previous Bookmark"
+            value: "Перейти до Попередньої закладки"
       "Select Encoding":
-        value: "Select Encoding"
+        value: "Вибрати кодування"
       "Go to Line":
-        value: "Go to Line"
+        value: "Перейти до Рядка"
       "Select Grammar":
-        value: "Select Grammar"
+        value: "Вибрати Граматику"
   "&View":
-    value: "View(&V)"
+    value: "Вигляд(&V)"
     submenu:
       "Toggle &Full Screen":
-        value: "Toggle Full Screen(&F)"
+        value: "Повний Екран(&F)"
       "Toggle Menu Bar":
-        value: "Toggle Menu Bar"
+        value: "Сховати/Показати Меню"
       Panes:
-        value: "Panes"
+        value: "Панелі"
         submenu:
           "Split Up":
-            value: "Split Up"
+            value: "Розділити згори"
           "Split Down":
-            value: "Split Down"
+            value: "Розділити знизу"
           "Split Left":
-            value: "Split Left"
+            value: "Розділити зліва"
           "Split Right":
-            value: "Split Right"
+            value: "Розділити зправа"
           "Focus Next Pane":
-            value: "Focus Next Pane"
+            value: "Фокус на Наступній Панелі"
           "Focus Previous Pane":
-            value: "Focus Previous Pane"
+            value: "Фокус на Попередній Панелі"
           "Focus Pane Above":
-            value: "Focus Pane Above"
+            value: "Фокус на Панелі Зверху"
           "Focus Pane Below":
-            value: "Focus Pane Below"
+            value: "Фокус на Панелі Знизу"
           "Focus Pane On Left":
-            value: "Focus Pane On Left"
+            value: "Фокус на Панелі Зліва"
           "Focus Pane On Right":
-            value: "Focus Pane On Right"
+            value: "Фокус на Панелі Зправа"
           "Close Pane":
-            value: "Close Pane"
+            value: "Закрити Панель"
       Developer:
-        value: "Developer"
+        value: "Розробник"
         submenu:
           "Open In &Dev Mode…":
-            value: "Open In Dev Mode(&D)..."
+            value: "Відкрити у режимі розробника(&D)..."
           "&Reload Window":
-            value: "Reload Window(&R)"
+            value: "Перезавантажити вікно(&R)"
           "Run Package &Specs":
-            value: "Run Package Specs(&S)"
+            value: "Запустити Функції пакету(&S)"
           "Run &Benchmarks":
-            value: "Run Benchmarks(&B)"
+            value: "Запустити Бенчмарки(&B)"
           "Toggle Developer &Tools":
-            value: "Toggle Developer Tools(&T)"
+            value: "Інструменти розробника(&T)"
       "&Increase Font Size":
-        value: "Increase Font Size(&I)"
+        value: "Збільшити розмір шрифта(&I)"
       "&Decrease Font Size":
-        value: "Decrease Font Size(&D)"
+        value: "Зменшити розмір шрифта(&D)"
       "Re&set Font Size":
-        value: "Reset Font Size(&S)"
+        value: "Нормальний розмір шрифта(&S)"
       "Toggle Soft &Wrap":
         value: "Toggle Soft Wrap(&W)"
       "Toggle Command Palette":
@@ -215,93 +215,93 @@ Menu:
       "Toggle Tree View":
         value: "Toggle Tree View"
   "&Selection":
-    value: "Selection(&S)"
+    value: "Селекція(&S)"
     submenu:
       "Add Selection &Above":
-        value: "Add Selection Above(&A)"
+        value: "Додати Селекцію Зверху(&A)"
       "Add Selection &Below":
-        value: "Add Selection Below(&B)"
+        value: "Додати Селекцію Знизу(&B)"
       "S&plit into Lines":
-        value: "Split into Lines(&P)"
+        value: "Поділити на Лінії(&P)"
       "Single Selection":
-        value: "Single Selection"
+        value: "Єдина Селекція"
       "Select to &Top":
-        value: "Select to Top(&T)"
+        value: "Вибрати до Верху(&T)"
       "Select to Botto&m":
-        value: "Select to Bottom(&M)"
+        value: "Вибрати до Низу(&M)"
       "Select &Line":
-        value: "Select Line(&L)"
+        value: "Вибрати Лінію(&L)"
       "Select &Word":
-        value: "Select Word(&W)"
+        value: "Вибрати Слово(&W)"
       "Select to Beginning of W&ord":
-        value: "Select to Beginning of Word(&O)"
+        value: "Вибрати до початку слова(&O)"
       "Select to Beginning of L&ine":
-        value: "Select to Beginning of Line(&I)"
+        value: "Вибрати до початку рядка(&I)"
       "Select to First &Character of Line":
-        value: "Select to First Character of Line(&C)"
+        value: "Вибрати до першого символу рядка(&C)"
       "Select to End of Wor&d":
-        value: "Select to End of Word(&D)"
+        value: "Вибрати до кінця слова(&D)"
       "Select to End of Lin&e":
-        value: "Select to End of Line(&E)"
+        value: "Вибрати до кінця рядка(&E)"
       "Select Inside Brackets":
-        value: "Select Inside Brackets"
+        value: "Вибрати в лапках"
   "F&ind":
-    value: "Find(&I)"
+    value: "Пошук(&I)"
     submenu:
       "Find in Buffer":
-        value: "Find in Buffer"
+        value: "Знайти у Буфері"
       "Replace in Buffer":
-        value: "Replace in Buffer"
+        value: "Замінити у Буфері"
       "Select Next":
-        value: "Select Next"
+        value: "Вибрати Ще"
       "Select All":
-        value: "Select All"
+        value: "Вибрати Все"
       "Toggle Find in Buffer":
-        value: "Toggle Find in Buffer"
+        value: "Перемкнути пошук у Буфері"
       "Find in Project":
-        value: "Find in Project"
+        value: "Знайти у Проекті"
       "Toggle Find in Project":
-        value: "Toggle Find in Project"
+        value: "Перемкнути пошук у проекті"
       "Find All":
-        value: "Find All"
+        value: "Знайти Все"
       "Find Next":
-        value: "Find Next"
+        value: "Знайти Наступнє"
       "Find Previous":
-        value: "Find Previous"
+        value: "Знайти Попереднє"
       "Replace Next":
-        value: "Replace Next"
+        value: "Замінити Ще"
       "Replace All":
-        value: "Replace All"
+        value: "Замінити Все"
       "Clear History":
-        value: "Clear History"
+        value: "Очистити Історію"
       "Find Buffer":
-        value: "Find Buffer"
+        value: "Знайти Буфер"
       "Find File":
-        value: "Find File"
+        value: "Знайти Файл"
       "Find Modified File":
-        value: "Find Modified File"
+        value: "Знайти Модифікований Файл"
   "&Packages":
-    value: "Packages(&P)"
+    value: "Пакети(&P)"
   "&Help":
-    value: "Help(&H)"
+    value: "Допомога(&H)"
     submenu:
       "View &Terms of Use":
-        value: "View &Terms of Use"
+        value: "&Умови Використання"
       "View &License":
-        value: "View &License"
+        value: "&Ліцензія"
       "Check for Update":
-        value: "Check for Update"
+        value: "Перевірити на оновлення"
       "&Documentation":
-        value: "Documentation(&D)"
+        value: "Документація(&D)"
       "Frequently Asked Questions":
-        value: "Frequently Asked Questions"
+        value: "Почитати FAQ"
       "Community Discussions":
-        value: "Community Discussions"
+        value: "Дискусії Суспільства"
       "Report Issue":
-        value: "Report Issue"
+        value: "Повідомити про Помилку"
       "Search Issues":
-        value: "Search Issues"
+        value: "Шукати Помилки"
       "About Atom":
-        value: "About Atom"
+        value: "Про Atom"
       "Welcome Guide":
-        value: "Welcome Guide"
+        value: "Гайд Початківця"
